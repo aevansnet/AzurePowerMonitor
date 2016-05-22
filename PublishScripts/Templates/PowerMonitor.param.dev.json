@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "aevansPowerMonitor"
+  },
+  "hostingPlanName": {
+    "value": "MyCheapOne"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Basic"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "ec8db4ab-257e-4e59-84fc-a1ba0969602d"
+  },
+  "resourceGroup": {
+    "value": "MyGroup1"
+  }
+}
